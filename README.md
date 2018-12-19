@@ -1,1 +1,1 @@
-# learning-git-2
+https://patryk-stanek.github.io/learning-git-2/
